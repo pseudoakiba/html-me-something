@@ -1,0 +1,22 @@
+
+#index {
+    font-style: italic;
+}
+
+#center {
+    text-align: center;
+    margin: auto;
+    border: 3px solid yellow;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+#city {
+    font-variant: small-caps;
+    text-transform: capitalize;
+}
+
+.upper {
+    text-transform: uppercase;
+    color: blue;
+}
