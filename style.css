@@ -1,6 +1,19 @@
+p {
+    font-family: Arial;
+    color: darkblue;
+}
 
-#index {
-    font-style: italic;
+h1 {
+    background-color: lightgoldenrodyellow;
+}
+
+article {
+    background-image: url("images/mountains.png");
+}
+
+article {
+    padding: 40px;
+    border: 1px solid blue;
 }
 
 #center {
@@ -19,4 +32,12 @@
 .upper {
     text-transform: uppercase;
     color: blue;
+}
+
+.centered {
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
 }
